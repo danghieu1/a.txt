@@ -1,0 +1,12 @@
+127.0.0.1	outbrain.com
+127.0.0.1	www.outbrain.com
+127.0.0.1	odb.outbrain.com
+127.0.0.1	images.outbrain.com
+127.0.0.1	log.outbrain.com
+127.0.0.1	amplify.outbrain.com
+127.0.0.1	amplifypixel.outbrain.com
+127.0.0.1   vra.outbrain.com
+127.0.0.1   sync.outbrain.com
+127.0.0.1   tr.outbrain.com
+127.0.0.1   vrp.outbrain.com
+127.0.0.1   vrt.outbrain.com
