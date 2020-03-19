@@ -10,3 +10,4 @@
 127.0.0.1   tr.outbrain.com
 127.0.0.1   vrp.outbrain.com
 127.0.0.1   vrt.outbrain.com
+127.0.0.1   moretvtime.com/static/survey/video/moretvtime.mp4
